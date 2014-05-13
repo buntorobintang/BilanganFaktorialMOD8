@@ -16,6 +16,7 @@ public class BilanganFaktorial {
             x = x*temp;
             temp--;
         }
+        System.out.println("Hasil Faktorial : ")
         System.out.println(x);
     }
     
